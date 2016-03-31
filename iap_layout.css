@@ -1,0 +1,53 @@
+/* Insert Color Commands
+		Dark Blue - dblue - 
+		White - white - ffffff
+		Light Blue - lblue - bfd1ff
+*/
+			
+body {
+	font-family: Tahoma;
+	color: #000000; /* Black */ 
+	}
+	
+div.content {
+	width: 95%;
+	margin: auto;
+	}
+	
+div.banner {
+	background-color: #181E8D; /* DarkBlue */ 
+	color: #ffffff;
+	}
+
+div.navigation {
+	background: linear-gradient(#43588e, #243154); /* standard, Light to dark blue fade */ 
+	background: -moz-linear-gradient(#43588e, #243154); /* Firefox */
+	background: -o-linear-gradient(#43588e, #243154); /* Opera */
+	background: -webkit-linerar-gradient(#43588e, #243154); /* Safari */
+	padding: 10px;
+	text-align: center;
+	}
+	
+div.main {
+	padding: 10px;
+	color: #000000; /* Black */ 
+	background: #bfd1ff; 
+	}
+
+div.footer {
+	background-color: #181E8D; /* DarkBlue */ 
+	color: #ffffff;/* white */ 
+	padding: 10px;
+	}
+p.middle{
+	text-align:center
+}
+	
+		
+/* Navigation links */
+a.nav {font-weight: bold;}/* Bold.. */ 
+a.nav:link {color: #ffffff;} /* White Temp */ 
+a.nav:visited {color: #f7f7f7;}/* Grey */ 
+a.nav:hover {color: #425ea5;} /* Sea Blue */ 
+a.nav:active {color: #f7f7f7;}/* Grey */ 
+
