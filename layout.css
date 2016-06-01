@@ -15,15 +15,12 @@ div.content {
 	}
 	
 div.banner {
-	background-color: #181E8D; /* DarkBlue */ 
+	background-color: #000000; /* white from College banner. */ 
 	color: #ffffff;
 	}
 
 div.navigation {
-	background: linear-gradient(#43588e, #243154); /* standard, Light to dark blue fade */ 
-	background: -moz-linear-gradient(#43588e, #243154); /* Firefox */
-	background: -o-linear-gradient(#43588e, #243154); /* Opera */
-	background: -webkit-linerar-gradient(#43588e, #243154); /* Safari */
+	background-color: #88B419 /* Green from wgp college */
 	padding: 10px;
 	text-align: center;
 	}
