@@ -15,12 +15,13 @@ div.content {
 	}
 	
 div.banner {
-	background-color: #000000; /* white from College banner. */ 
-	color: #ffffff;
+	background-color: #ffffff; /* white from College banner. */ 
+	color: #000000;
 	}
 
 div.navigation {
-	background-color: #88B419 /* Green from wgp college */
+	background-color: #88B419; /* Green from wgp college */
+	color: #88B419;
 	padding: 10px;
 	text-align: center;
 	}
